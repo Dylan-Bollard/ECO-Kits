@@ -1,6 +1,8 @@
 # ECO-Kits
-PSU Capstone Repository for ECO KITS
+Portland State University Capstone Repository for ECO KITS.
 
-Feel free to use these lesson plans for any 3rd-5th grade classroom. 
+-------
 
-Also feel free to email about updates. Public uploads welcome, this is all for early childhood education and outside help is always appreciated.
+# CAPSTONE
+
+The capstone project at Portland State University was meant to get students involved in their community in different ways. I chose to focus my capstone on individual sustainability, and created a small series of lessons to teach students about the importance of renewable energy and individual ecological impact. The project was taught at an after school outdoors program over the course of five meetings and the kids really retained a good amount of the information. They also really enjoyed building the models on the last day.
